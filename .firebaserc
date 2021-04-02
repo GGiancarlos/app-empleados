@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-35656": {
+      "hosting": {
+        "empleados": [
+          "empleados-35656"
+        ]
+      }
+    }
+  }
+}
