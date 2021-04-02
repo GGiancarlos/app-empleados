@@ -1,6 +1,7 @@
 # Empleados
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
+If you want to see this project, visit this [site](https://quirky-hugle-787810.netlify.app), enjoy it!
 
 ## Development server
 
